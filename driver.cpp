@@ -2,10 +2,6 @@
 //Z#: Z23477048
 //Course:Date Structures and Algorithm Analysis (COP3530)
 //Professor: Dr. Lofton Bullard
-//Due Date: 09/15/2020
-//Due Time: 11:59
-//Total Points: 100
-//Assignment 3:
 //Description: Calculates month and displays it to the screen or displays it as incorrect
 //******************************************************************************
 
